@@ -59,3 +59,11 @@ This project helped me strengthen my skills in:
 - Business storytelling
 - Dashboard creation
 - Stakeholder-focused analysis
+
+- ## 📊 Dashboard Preview
+
+![Revenue Trend](visuals/q1_revenue_trend.png)
+
+![Top Countries](visuals/q2_top_countries.png)
+
+![Top Customers](visuals/q3_top_customers.png)
