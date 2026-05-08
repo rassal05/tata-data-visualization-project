@@ -175,7 +175,7 @@ tata-data-visualization-project/
 │   └── online_retail_cleaned.csv
 │
 ├── documents/
-│   └── certificate.pdf
+│   └── tata-forage-internship-certificate.png
 │
 └── README.md
 ```
@@ -202,10 +202,10 @@ This project was completed as part of the Tata Group Data Visualization Virtual 
 # 🤝 Connect With Me
 
 ## LinkedIn
-linkedin.com/in/rassalresheed
+www.linkedin.com/in/rassalresheed
 
 ## GitHub
-github.com/rassal05
+www.github.com/rassal05
 
 ---
 
