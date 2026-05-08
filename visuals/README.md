@@ -60,10 +60,26 @@ This project helped me strengthen my skills in:
 - Dashboard creation
 - Stakeholder-focused analysis
 
-- ## 📊 Dashboard Preview
+# 📊 Dashboard Preview
+
+## 1️⃣ Revenue Trend Analysis
 
 ![Revenue Trend](visuals/q1_revenue_trend.png)
 
+---
+
+## 2️⃣ Top Revenue Generating Countries
+
 ![Top Countries](visuals/q2_top_countries.png)
 
+---
+
+## 3️⃣ Top 10 Customers by Revenue
+
 ![Top Customers](visuals/q3_top_customers.png)
+
+---
+
+## 4️⃣ Product Demand by Country
+
+![Country Demand](visuals/q4_country_demand.png)
