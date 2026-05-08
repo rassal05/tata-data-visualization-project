@@ -83,3 +83,9 @@ This project helped me strengthen my skills in:
 ## 4️⃣ Product Demand by Country
 
 ![Country Demand](visuals/q4_country_demand.png)
+
+---
+
+## 4️⃣ Product Demand by Country
+
+![Country Demand](visuals/q4_country_demand.png)
